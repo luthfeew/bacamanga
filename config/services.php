@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'voratoon' => [
+        'base_url' => env('VORATOON_BASE_URL', 'https://v2.voratoon.com/backend'),
+    ],
+
 ];
